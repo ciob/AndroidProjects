@@ -14,4 +14,3 @@ Nel file `AndroidManifest.xml` permesso per utilizzare Internet
 Nel file `Build.gradle.app` definire dipendeze   
 `implementation 'com.android.volley:volley:1.1.1'`  
 `implementation 'com.google.code.gson:gson:2.8.6'`  
-
