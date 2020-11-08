@@ -3,7 +3,7 @@ Raccolta progetti Android.
 Ogni Lab contiene cartelle `java` e `layout` replicabili.  
   
 
-## Lab07 - Volley/Gson 
+## Lab06 - Volley/Gson 
 
 `Volley` Libreria per gestione richieste HTTP  
 `Gson` Libreria per (de)serializzazione JSON  
